@@ -1,0 +1,8 @@
+numpy==1.19.2
+scipy==1.5.4
+matplotlib==3.3.3
+librosa==0.8.0
+SoundFile==0.10.3.post1
+torch==1.8.1
+py_cpuinfo==8.0.0
+PyQt5==5.15.4
